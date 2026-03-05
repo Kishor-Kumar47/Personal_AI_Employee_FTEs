@@ -1,0 +1,13 @@
+# OAuth tokens and credentials
+AI_Employee_Vault/scripts/token.json
+AI_Employee_Vault/credentials.json
+.env
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
