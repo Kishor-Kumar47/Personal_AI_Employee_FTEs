@@ -1,0 +1,4 @@
+2026-03-05 11:25:18,917 - GmailWatcher - INFO - Found credentials: C:\GIAIC Disk\Q4-Nov-2025\Hackathon-q4\Personal_AI_Employee_FTEs\AI_Employee_Vault\scripts\credentials.json
+2026-03-05 11:25:18,935 - GmailWatcher - WARNING - Error loading token: Expecting value: line 1 column 1 (char 0)
+2026-03-05 11:25:18,936 - GmailWatcher - INFO - Starting Gmail authentication...
+2026-03-05 11:25:19,227 - google_auth_oauthlib.flow - INFO - Please visit this URL to authorize this application: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=887218025725-mslla9uikdv2i094u55u41d9fksas6a2.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A53481%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.readonly&state=J3IygZRUHa6keA4im2vuOsXh858a0J&code_challenge=dyuuctLTRrOw72ga8GKnW1eavZmC2mPsGN0VEfQ4zTo&code_challenge_method=S256&access_type=offline
