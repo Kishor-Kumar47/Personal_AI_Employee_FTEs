@@ -1,0 +1,18 @@
+2026-03-04 10:43:19,475 - GmailWatcher - INFO - Found credentials: C:\GIAIC Disk\Q4-Nov-2025\Hackathon-q4\Personal_AI_Employee_FTEs\credentials.json
+2026-03-04 10:43:19,522 - GmailWatcher - INFO - Loaded existing token
+2026-03-04 10:43:21,387 - GmailWatcher - INFO - Refreshed expired token
+2026-03-04 10:43:21,399 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-04 10:43:23,304 - GmailWatcher - INFO - Gmail service connected: mrbheel2024@gmail.com
+2026-03-04 10:53:43,845 - GmailWatcher - INFO - Found credentials: C:\GIAIC Disk\Q4-Nov-2025\Hackathon-q4\Personal_AI_Employee_FTEs\credentials.json
+2026-03-04 10:53:43,850 - GmailWatcher - INFO - Loaded existing token
+2026-03-04 10:53:45,016 - GmailWatcher - INFO - Refreshed expired token
+2026-03-04 10:53:45,030 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-04 10:53:46,424 - GmailWatcher - INFO - Gmail service connected: mrbheel2024@gmail.com
+2026-03-04 10:53:46,836 - GmailWatcher - INFO - Found 1 new message(s)
+2026-03-04 10:53:47,172 - GmailWatcher - INFO - Created action file: EMAIL_19cb76881f90be29_Test_My_Ai_employee.md
+2026-03-04 10:54:25 - INFO - Found 1 pending item(s), 0 awaiting approval
+2026-03-04 10:54:25 - INFO - Processing item: EMAIL_19cb76881f90be29_Test_My_Ai_employee.md
+2026-03-04 10:54:25 - INFO - Created plan: PLAN_EMAIL_19cb76881f90be29_Test_My_Ai_employee_20260304105425.md
+2026-03-04 10:54:25 - INFO - Plan created: PLAN_EMAIL_19cb76881f90be29_Test_My_Ai_employee_20260304105425.md
+2026-03-04 10:54:25 - INFO - Item ready for Qwen Code: EMAIL_19cb76881f90be29_Test_My_Ai_employee.md
+2026-03-04 10:54:25 - INFO - Dashboard updated: 0 pending, 0 awaiting approval

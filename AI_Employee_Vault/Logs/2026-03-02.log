@@ -1,0 +1,6 @@
+2026-03-02 11:02:11,007 - GmailWatcher - INFO - Found credentials: C:\GIAIC Disk\Q4-Nov-2025\Hackathon-q4\Personal_AI_Employee_FTEs\credentials.json
+2026-03-02 11:02:11,058 - GmailWatcher - INFO - Loaded existing token
+2026-03-02 11:02:14,044 - GmailWatcher - INFO - Refreshed expired token
+2026-03-02 11:02:14,061 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-02 11:02:15,894 - GmailWatcher - INFO - Gmail service connected: mrbheel2024@gmail.com
+2026-03-02 11:02:49 - INFO - No pending items or approvals

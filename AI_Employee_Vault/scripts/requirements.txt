@@ -1,0 +1,23 @@
+# AI Employee Silver Tier - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core dependencies (Bronze Tier)
+# File system watching (real-time monitoring)
+watchdog>=4.0.0
+
+# Gmail API (Silver Tier)
+# For Gmail Watcher - monitoring emails
+google-auth>=2.25.0
+google-auth-oauthlib>=1.2.0
+google-auth-httplib2>=0.2.0
+google-api-python-client>=2.110.0
+
+# LinkedIn (Silver Tier)
+# For LinkedIn Watcher and Poster - browser automation
+playwright>=1.40.0
+
+# Optional: APScheduler for advanced scheduling
+# APScheduler>=3.10.0
+
+# Optional: Email sending via SMTP (alternative to Gmail API)
+# aiosmtplib>=3.0.0

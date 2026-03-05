@@ -1,0 +1,4 @@
+{"status": "error", "timestamp": "2026-03-03T20:06:56.154527", "content": "my first post AI employee #AI", "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.linkedin.com/login\nCall log:\n  - navigating to \"https://www.linkedin.com/login\", waiting until \"networkidle\"\n"}
+{"status": "success", "timestamp": "2026-03-03T20:17:52.924950", "content": "my first post AI employee #AI"}
+{"status": "success", "timestamp": "2026-03-03T20:24:22.756753", "content": "Your business post here #AI #Automation"}
+{"status": "error", "timestamp": "2026-03-03T20:38:57.095932", "content": "my first post AI employee #AI", "error": "Page.query_selector: Execution context was destroyed, most likely because of a navigation"}

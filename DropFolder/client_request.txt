@@ -1,0 +1,4 @@
+Please send an invoice for the consulting work completed last week.
+Amount: $1,500
+Client: ABC Corp
+Email: billing@abccorp.com

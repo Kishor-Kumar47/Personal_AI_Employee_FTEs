@@ -1,0 +1,10 @@
+{
+  "task_id": "RALPH_20260303213659",
+  "prompt": "Process all files in Needs_Action and move to Done",
+  "completion_criteria": "file_movement",
+  "iteration": 0,
+  "max_iterations": 5,
+  "status": "pending",
+  "created": "2026-03-03T21:36:59.306005",
+  "history": []
+}

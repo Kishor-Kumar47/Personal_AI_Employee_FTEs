@@ -1,0 +1,133 @@
+2026-03-01 22:41:47,907 - GmailWatcher - ERROR - Credentials file not found: C:\GIAIC Disk\Q4-Nov-2025\Hackathon-q4\Personal_AI_Employee_FTEs\AI_Employee_Vault\scripts\credentials.json
+2026-03-01 22:41:47,911 - GmailWatcher - INFO - Please create credentials.json from Google Cloud Console
+2026-03-01 22:45:30,653 - GmailWatcher - INFO - Found credentials: C:\GIAIC Disk\Q4-Nov-2025\Hackathon-q4\Personal_AI_Employee_FTEs\credentials.json
+2026-03-01 22:45:30,653 - GmailWatcher - INFO - Starting Gmail authentication...
+2026-03-01 22:45:31,026 - google_auth_oauthlib.flow - INFO - Please visit this URL to authorize this application: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=887218025725-7979q2cehn5qifld1uobpbhuq7k3e20h.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A54339%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.readonly&state=5wkv6QCNjb8sxqrTOJ511nyYN6IYQc&code_challenge=n5t8PXEtqopKCQerj-fmnlDvNJH46v2FnFPm2wZNXt8&code_challenge_method=S256&access_type=offline
+2026-03-01 22:45:53,988 - google_auth_oauthlib.flow - INFO - "GET /?state=5wkv6QCNjb8sxqrTOJ511nyYN6IYQc&iss=https://accounts.google.com&code=4/0AfrIepAUdBtNeiU4kVAuxyPr5VzrQhRFlalVnRLL8KRYSkzgCnpGUk6JkHcqDI7JUnY_kQ&scope=https://www.googleapis.com/auth/gmail.readonly HTTP/1.1" 200 65
+2026-03-01 22:45:56,340 - GmailWatcher - INFO - Authentication successful - token saved
+2026-03-01 22:45:56,365 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-01 22:45:56,448 - GmailWatcher - ERROR - Failed to build Gmail service: Missing required parameter "userId"
+2026-03-01 22:49:22,861 - GmailWatcher - INFO - Found credentials: C:\GIAIC Disk\Q4-Nov-2025\Hackathon-q4\Personal_AI_Employee_FTEs\credentials.json
+2026-03-01 22:49:22,980 - GmailWatcher - INFO - Loaded existing token
+2026-03-01 22:49:22,981 - GmailWatcher - ERROR - Failed to build Gmail service: build() got an unexpected keyword argument 'staticDiscovery'. Did you mean 'static_discovery'?
+2026-03-01 22:51:06,399 - GmailWatcher - INFO - Found credentials: C:\GIAIC Disk\Q4-Nov-2025\Hackathon-q4\Personal_AI_Employee_FTEs\credentials.json
+2026-03-01 22:51:06,403 - GmailWatcher - INFO - Loaded existing token
+2026-03-01 22:51:06,408 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-01 22:51:07,640 - GmailWatcher - ERROR - Failed to build Gmail service: Missing required parameter "userId"
+2026-03-01 22:55:54,901 - GmailWatcher - INFO - Found credentials: C:\GIAIC Disk\Q4-Nov-2025\Hackathon-q4\Personal_AI_Employee_FTEs\credentials.json
+2026-03-01 22:55:54,913 - GmailWatcher - INFO - Loaded existing token
+2026-03-01 22:55:54,926 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-01 22:55:57,266 - GmailWatcher - INFO - Gmail service connected: mrbheel2024@gmail.com
+2026-03-01 22:55:57,777 - GmailWatcher - INFO - Found 20 new message(s)
+2026-03-01 22:55:58,302 - GmailWatcher - INFO - Created action file: EMAIL_19ca8144d776211b_2-Step_Verification_turned_on.md
+2026-03-01 22:55:58,638 - GmailWatcher - INFO - Created action file: EMAIL_19ca813e4e74aab6_Your_Google_Account_was_recove.md
+2026-03-01 22:55:59,105 - GmailWatcher - INFO - Created action file: EMAIL_19c9173ea19d54a7_Reminder_Claude_Code_Windows.md
+2026-03-01 22:55:59,470 - GmailWatcher - INFO - Created action file: EMAIL_19c76daf5188aed7_Product_Update_Automatic_ena.md
+2026-03-01 22:55:59,843 - GmailWatcher - INFO - Created action file: EMAIL_19c645d3a1bdf798_Amol_touch-base_Anthropic.md
+2026-03-01 22:56:00,246 - GmailWatcher - INFO - Created action file: EMAIL_19c514e4541badf6_Action_Advised_Review_Google.md
+2026-03-01 22:56:00,745 - GmailWatcher - INFO - Created action file: EMAIL_19c4d6e637e693c1_Action_Required_Claude_Code_.md
+2026-03-01 22:56:01,394 - GmailWatcher - INFO - Created action file: EMAIL_19ba5a12d7c3d893_Mr_Bheel_your_December_month_.md
+2026-03-01 22:56:01,767 - GmailWatcher - INFO - Created action file: EMAIL_19b988f3a9449231_Updates_to_how_privacy_setting.md
+2026-03-01 22:56:02,392 - GmailWatcher - INFO - Created action file: EMAIL_19b63dfc0cbcd946_Get_more_from_Claude_with_thes.md
+2026-03-01 22:56:02,797 - GmailWatcher - INFO - Created action file: EMAIL_19b546ca84d6e0a1_Using_Claude_for_your_everyday.md
+2026-03-01 22:56:03,309 - GmailWatcher - INFO - Created action file: EMAIL_19b46cabf52d5008_Claude_Developer_Platform_Thr.md
+2026-03-01 22:56:03,647 - GmailWatcher - INFO - Created action file: EMAIL_19b44f99952db758_Bring_your_ideas_to_life_with_.md
+2026-03-01 22:56:04,080 - GmailWatcher - INFO - Created action file: EMAIL_19b3c7e0c3b07763_Reduce_your_Claude_API_costs.md
+2026-03-01 22:56:04,473 - GmailWatcher - INFO - Created action file: EMAIL_19b3c7db162a4cd9_Tips_to_get_the_most_out_of_Cl.md
+2026-03-01 22:56:04,947 - GmailWatcher - INFO - Created action file: EMAIL_19b3aace1f7002c6_5_ways_Claude_can_work_with_yo.md
+2026-03-01 22:56:05,336 - GmailWatcher - INFO - Created action file: EMAIL_19b32317b2c53644_Get_better_results_with_prompt.md
+2026-03-01 22:56:05,782 - GmailWatcher - INFO - Created action file: EMAIL_19b3230ed559dec8_Ship_your_first_major_feature_.md
+2026-03-01 22:56:06,286 - GmailWatcher - INFO - Created action file: EMAIL_19b30602a7f03f09_The_secret_to_your_first_aha_.md
+2026-03-01 22:56:06,691 - GmailWatcher - INFO - Created action file: EMAIL_19b2bd92315702f0_Welcome_to_the_Claude_Develope.md
+2026-03-01 23:10:06,181 - LinkedInWatcher - INFO - Loaded saved session cookies
+2026-03-01 23:10:17,859 - LinkedInWatcher - WARNING - Not logged in to LinkedIn. Please login manually or check session.
+2026-03-01 23:10:56 - INFO - Found 22 pending item(s), 0 awaiting approval
+2026-03-01 23:10:56 - INFO - Processing item: EMAIL_19b2bd92315702f0_Welcome_to_the_Claude_Develope.md
+2026-03-01 23:10:56 - INFO - Created plan: PLAN_EMAIL_19b2bd92315702f0_Welcome_to_the_Claude_Develope_20260301231056.md
+2026-03-01 23:10:56 - INFO - Plan created: PLAN_EMAIL_19b2bd92315702f0_Welcome_to_the_Claude_Develope_20260301231056.md
+2026-03-01 23:10:56 - INFO - Item ready for Qwen Code: EMAIL_19b2bd92315702f0_Welcome_to_the_Claude_Develope.md
+2026-03-01 23:10:56 - INFO - Processing item: EMAIL_19b30602a7f03f09_The_secret_to_your_first_aha_.md
+2026-03-01 23:10:56 - INFO - Created plan: PLAN_EMAIL_19b30602a7f03f09_The_secret_to_your_first_aha__20260301231056.md
+2026-03-01 23:10:56 - INFO - Plan created: PLAN_EMAIL_19b30602a7f03f09_The_secret_to_your_first_aha__20260301231056.md
+2026-03-01 23:10:56 - INFO - Item ready for Qwen Code: EMAIL_19b30602a7f03f09_The_secret_to_your_first_aha_.md
+2026-03-01 23:10:56 - INFO - Processing item: EMAIL_19b3230ed559dec8_Ship_your_first_major_feature_.md
+2026-03-01 23:10:56 - INFO - Created plan: PLAN_EMAIL_19b3230ed559dec8_Ship_your_first_major_feature__20260301231056.md
+2026-03-01 23:10:56 - INFO - Plan created: PLAN_EMAIL_19b3230ed559dec8_Ship_your_first_major_feature__20260301231056.md
+2026-03-01 23:10:56 - INFO - Item ready for Qwen Code: EMAIL_19b3230ed559dec8_Ship_your_first_major_feature_.md
+2026-03-01 23:10:56 - INFO - Processing item: EMAIL_19b32317b2c53644_Get_better_results_with_prompt.md
+2026-03-01 23:10:56 - INFO - Created plan: PLAN_EMAIL_19b32317b2c53644_Get_better_results_with_prompt_20260301231056.md
+2026-03-01 23:10:56 - INFO - Plan created: PLAN_EMAIL_19b32317b2c53644_Get_better_results_with_prompt_20260301231056.md
+2026-03-01 23:10:56 - INFO - Item ready for Qwen Code: EMAIL_19b32317b2c53644_Get_better_results_with_prompt.md
+2026-03-01 23:10:56 - INFO - Processing item: EMAIL_19b3aace1f7002c6_5_ways_Claude_can_work_with_yo.md
+2026-03-01 23:10:56 - INFO - Created plan: PLAN_EMAIL_19b3aace1f7002c6_5_ways_Claude_can_work_with_yo_20260301231056.md
+2026-03-01 23:10:56 - INFO - Plan created: PLAN_EMAIL_19b3aace1f7002c6_5_ways_Claude_can_work_with_yo_20260301231056.md
+2026-03-01 23:10:56 - INFO - Item ready for Qwen Code: EMAIL_19b3aace1f7002c6_5_ways_Claude_can_work_with_yo.md
+2026-03-01 23:10:56 - INFO - Processing item: EMAIL_19b3c7db162a4cd9_Tips_to_get_the_most_out_of_Cl.md
+2026-03-01 23:10:56 - INFO - Created plan: PLAN_EMAIL_19b3c7db162a4cd9_Tips_to_get_the_most_out_of_Cl_20260301231056.md
+2026-03-01 23:10:56 - INFO - Plan created: PLAN_EMAIL_19b3c7db162a4cd9_Tips_to_get_the_most_out_of_Cl_20260301231056.md
+2026-03-01 23:10:56 - INFO - Item ready for Qwen Code: EMAIL_19b3c7db162a4cd9_Tips_to_get_the_most_out_of_Cl.md
+2026-03-01 23:10:56 - INFO - Processing item: EMAIL_19b3c7e0c3b07763_Reduce_your_Claude_API_costs.md
+2026-03-01 23:10:56 - INFO - Created plan: PLAN_EMAIL_19b3c7e0c3b07763_Reduce_your_Claude_API_costs_20260301231056.md
+2026-03-01 23:10:56 - INFO - Plan created: PLAN_EMAIL_19b3c7e0c3b07763_Reduce_your_Claude_API_costs_20260301231056.md
+2026-03-01 23:10:56 - INFO - Item ready for Qwen Code: EMAIL_19b3c7e0c3b07763_Reduce_your_Claude_API_costs.md
+2026-03-01 23:10:56 - INFO - Processing item: EMAIL_19b44f99952db758_Bring_your_ideas_to_life_with_.md
+2026-03-01 23:10:56 - INFO - Created plan: PLAN_EMAIL_19b44f99952db758_Bring_your_ideas_to_life_with__20260301231056.md
+2026-03-01 23:10:56 - INFO - Plan created: PLAN_EMAIL_19b44f99952db758_Bring_your_ideas_to_life_with__20260301231056.md
+2026-03-01 23:10:56 - INFO - Item ready for Qwen Code: EMAIL_19b44f99952db758_Bring_your_ideas_to_life_with_.md
+2026-03-01 23:10:56 - INFO - Processing item: EMAIL_19b46cabf52d5008_Claude_Developer_Platform_Thr.md
+2026-03-01 23:10:56 - INFO - Created plan: PLAN_EMAIL_19b46cabf52d5008_Claude_Developer_Platform_Thr_20260301231056.md
+2026-03-01 23:10:56 - INFO - Plan created: PLAN_EMAIL_19b46cabf52d5008_Claude_Developer_Platform_Thr_20260301231056.md
+2026-03-01 23:10:56 - INFO - Item ready for Qwen Code: EMAIL_19b46cabf52d5008_Claude_Developer_Platform_Thr.md
+2026-03-01 23:10:56 - INFO - Processing item: EMAIL_19b546ca84d6e0a1_Using_Claude_for_your_everyday.md
+2026-03-01 23:10:56 - INFO - Created plan: PLAN_EMAIL_19b546ca84d6e0a1_Using_Claude_for_your_everyday_20260301231056.md
+2026-03-01 23:10:56 - INFO - Plan created: PLAN_EMAIL_19b546ca84d6e0a1_Using_Claude_for_your_everyday_20260301231056.md
+2026-03-01 23:10:56 - INFO - Item ready for Qwen Code: EMAIL_19b546ca84d6e0a1_Using_Claude_for_your_everyday.md
+2026-03-01 23:10:56 - INFO - Processing item: EMAIL_19b63dfc0cbcd946_Get_more_from_Claude_with_thes.md
+2026-03-01 23:10:56 - INFO - Created plan: PLAN_EMAIL_19b63dfc0cbcd946_Get_more_from_Claude_with_thes_20260301231056.md
+2026-03-01 23:10:56 - INFO - Plan created: PLAN_EMAIL_19b63dfc0cbcd946_Get_more_from_Claude_with_thes_20260301231056.md
+2026-03-01 23:10:56 - INFO - Item ready for Qwen Code: EMAIL_19b63dfc0cbcd946_Get_more_from_Claude_with_thes.md
+2026-03-01 23:10:56 - INFO - Processing item: EMAIL_19b988f3a9449231_Updates_to_how_privacy_setting.md
+2026-03-01 23:10:56 - INFO - Created plan: PLAN_EMAIL_19b988f3a9449231_Updates_to_how_privacy_setting_20260301231056.md
+2026-03-01 23:10:56 - INFO - Plan created: PLAN_EMAIL_19b988f3a9449231_Updates_to_how_privacy_setting_20260301231056.md
+2026-03-01 23:10:56 - INFO - Item ready for Qwen Code: EMAIL_19b988f3a9449231_Updates_to_how_privacy_setting.md
+2026-03-01 23:10:56 - INFO - Processing item: EMAIL_19ba5a12d7c3d893_Mr_Bheel_your_December_month_.md
+2026-03-01 23:10:56 - INFO - Created plan: PLAN_EMAIL_19ba5a12d7c3d893_Mr_Bheel_your_December_month__20260301231056.md
+2026-03-01 23:10:56 - INFO - Plan created: PLAN_EMAIL_19ba5a12d7c3d893_Mr_Bheel_your_December_month__20260301231056.md
+2026-03-01 23:10:56 - INFO - Item ready for Qwen Code: EMAIL_19ba5a12d7c3d893_Mr_Bheel_your_December_month_.md
+2026-03-01 23:10:56 - INFO - Processing item: EMAIL_19c4d6e637e693c1_Action_Required_Claude_Code_.md
+2026-03-01 23:10:56 - INFO - Created plan: PLAN_EMAIL_19c4d6e637e693c1_Action_Required_Claude_Code__20260301231056.md
+2026-03-01 23:10:56 - INFO - Plan created: PLAN_EMAIL_19c4d6e637e693c1_Action_Required_Claude_Code__20260301231056.md
+2026-03-01 23:10:56 - INFO - Item ready for Qwen Code: EMAIL_19c4d6e637e693c1_Action_Required_Claude_Code_.md
+2026-03-01 23:10:56 - INFO - Processing item: EMAIL_19c514e4541badf6_Action_Advised_Review_Google.md
+2026-03-01 23:10:56 - INFO - Created plan: PLAN_EMAIL_19c514e4541badf6_Action_Advised_Review_Google_20260301231056.md
+2026-03-01 23:10:56 - INFO - Plan created: PLAN_EMAIL_19c514e4541badf6_Action_Advised_Review_Google_20260301231056.md
+2026-03-01 23:10:56 - INFO - Item ready for Qwen Code: EMAIL_19c514e4541badf6_Action_Advised_Review_Google.md
+2026-03-01 23:10:56 - INFO - Processing item: EMAIL_19c645d3a1bdf798_Amol_touch-base_Anthropic.md
+2026-03-01 23:10:56 - INFO - Created plan: PLAN_EMAIL_19c645d3a1bdf798_Amol_touch-base_Anthropic_20260301231056.md
+2026-03-01 23:10:56 - INFO - Plan created: PLAN_EMAIL_19c645d3a1bdf798_Amol_touch-base_Anthropic_20260301231056.md
+2026-03-01 23:10:56 - INFO - Item ready for Qwen Code: EMAIL_19c645d3a1bdf798_Amol_touch-base_Anthropic.md
+2026-03-01 23:10:56 - INFO - Processing item: EMAIL_19c76daf5188aed7_Product_Update_Automatic_ena.md
+2026-03-01 23:10:56 - INFO - Created plan: PLAN_EMAIL_19c76daf5188aed7_Product_Update_Automatic_ena_20260301231056.md
+2026-03-01 23:10:56 - INFO - Plan created: PLAN_EMAIL_19c76daf5188aed7_Product_Update_Automatic_ena_20260301231056.md
+2026-03-01 23:10:56 - INFO - Item ready for Qwen Code: EMAIL_19c76daf5188aed7_Product_Update_Automatic_ena.md
+2026-03-01 23:10:56 - INFO - Processing item: EMAIL_19c9173ea19d54a7_Reminder_Claude_Code_Windows.md
+2026-03-01 23:10:56 - INFO - Created plan: PLAN_EMAIL_19c9173ea19d54a7_Reminder_Claude_Code_Windows_20260301231056.md
+2026-03-01 23:10:56 - INFO - Plan created: PLAN_EMAIL_19c9173ea19d54a7_Reminder_Claude_Code_Windows_20260301231056.md
+2026-03-01 23:10:57 - INFO - Item ready for Qwen Code: EMAIL_19c9173ea19d54a7_Reminder_Claude_Code_Windows.md
+2026-03-01 23:10:57 - INFO - Processing item: EMAIL_19ca813e4e74aab6_Your_Google_Account_was_recove.md
+2026-03-01 23:10:57 - INFO - Created plan: PLAN_EMAIL_19ca813e4e74aab6_Your_Google_Account_was_recove_20260301231057.md
+2026-03-01 23:10:57 - INFO - Plan created: PLAN_EMAIL_19ca813e4e74aab6_Your_Google_Account_was_recove_20260301231057.md
+2026-03-01 23:10:57 - INFO - Item ready for Qwen Code: EMAIL_19ca813e4e74aab6_Your_Google_Account_was_recove.md
+2026-03-01 23:10:57 - INFO - Processing item: EMAIL_19ca8144d776211b_2-Step_Verification_turned_on.md
+2026-03-01 23:10:57 - INFO - Created plan: PLAN_EMAIL_19ca8144d776211b_2-Step_Verification_turned_on_20260301231057.md
+2026-03-01 23:10:57 - INFO - Plan created: PLAN_EMAIL_19ca8144d776211b_2-Step_Verification_turned_on_20260301231057.md
+2026-03-01 23:10:57 - INFO - Item ready for Qwen Code: EMAIL_19ca8144d776211b_2-Step_Verification_turned_on.md
+2026-03-01 23:10:57 - INFO - Processing item: FILE_26187573_client_request.txt.md
+2026-03-01 23:10:57 - INFO - Created plan: PLAN_FILE_26187573_client_request.txt_20260301231057.md
+2026-03-01 23:10:57 - INFO - Plan created: PLAN_FILE_26187573_client_request.txt_20260301231057.md
+2026-03-01 23:10:57 - INFO - Item ready for Qwen Code: FILE_26187573_client_request.txt.md
+2026-03-01 23:10:57 - INFO - Processing item: FILE_d41d8cd9_new_task.txt.md
+2026-03-01 23:10:57 - INFO - Created plan: PLAN_FILE_d41d8cd9_new_task.txt_20260301231057.md
+2026-03-01 23:10:57 - INFO - Plan created: PLAN_FILE_d41d8cd9_new_task.txt_20260301231057.md
+2026-03-01 23:10:57 - INFO - Item ready for Qwen Code: FILE_d41d8cd9_new_task.txt.md
+2026-03-01 23:10:57 - INFO - Dashboard updated: 0 pending, 0 awaiting approval

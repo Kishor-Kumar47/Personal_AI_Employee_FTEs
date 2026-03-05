@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "skills": {
+    "browsing-with-playwright": {
+      "source": "bilalmk/todo_correct",
+      "sourceType": "github",
+      "computedHash": "f73daf75e38650c202e61f652a26578db157f8423e8bcf283bcd93b441641461"
+    },
+    "email-sender": {
+      "source": "local",
+      "sourceType": "local",
+      "description": "Send emails via SMTP or Gmail API",
+      "tier": "silver"
+    },
+    "approval-workflow": {
+      "source": "local",
+      "sourceType": "local",
+      "description": "Human-in-the-loop approval system for sensitive actions",
+      "tier": "silver"
+    },
+    "scheduler": {
+      "source": "local",
+      "sourceType": "local",
+      "description": "Schedule recurring tasks via cron or Task Scheduler",
+      "tier": "silver"
+    },
+    "plan-creator": {
+      "source": "local",
+      "sourceType": "local",
+      "description": "Create structured action plans from tasks",
+      "tier": "silver"
+    },
+    "linkedin-poster": {
+      "source": "local",
+      "sourceType": "local",
+      "description": "Post updates to LinkedIn automatically",
+      "tier": "silver"
+    },
+    "ceo-briefing": {
+      "source": "local",
+      "sourceType": "local",
+      "description": "Generate weekly CEO Briefing reports with business audit",
+      "tier": "gold"
+    },
+    "ralph-wiggum-loop": {
+      "source": "local",
+      "sourceType": "local",
+      "description": "Autonomous multi-step task completion loop",
+      "tier": "gold"
+    },
+    "odoo-accounting": {
+      "source": "local",
+      "sourceType": "local",
+      "description": "Odoo ERP accounting integration (template)",
+      "tier": "gold",
+      "status": "template"
+    },
+    "social-integration": {
+      "source": "local",
+      "sourceType": "local",
+      "description": "Facebook/Instagram/Twitter integration (templates)",
+      "tier": "gold",
+      "status": "template"
+    }
+  },
+  "tier_summary": {
+    "bronze": {
+      "skills": 1,
+      "status": "complete"
+    },
+    "silver": {
+      "skills": 6,
+      "status": "complete"
+    },
+    "gold": {
+      "skills": 10,
+      "status": "complete"
+    }
+  }
+}
