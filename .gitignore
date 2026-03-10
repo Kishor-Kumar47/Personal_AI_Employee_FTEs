@@ -1,9 +1,24 @@
 # OAuth tokens and credentials
 AI_Employee_Vault/scripts/token.json
 AI_Employee_Vault/credentials.json
+credentials.json
 .env
 *.key
 *.pem
+
+# Session cookies
+AI_Employee_Vault/scripts/.linkedin_session/
+AI_Employee_Vault/scripts/.whatsapp_session/
+
+# Logs
+AI_Employee_Vault/Logs/
+AI_Employee_Vault/scripts/logs/
+
+# Approval workflow
+AI_Employee_Vault/Pending_Approval/
+AI_Employee_Vault/Approved/
+AI_Employee_Vault/Rejected/
+AI_Employee_Vault/In_Progress/
 
 # Python
 __pycache__/

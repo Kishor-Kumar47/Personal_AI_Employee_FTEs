@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-filesystem", "C:\\GIAIC Disk\\Q4-Nov-2025\\Hackathon-q4\\Personal_AI_Employee_FTEs\\AI_Employee_Vault"],
+      "disabled": false,
+      "autoApprove": []
+    },
+    "email-sender": {
+      "command": "python",
+      "args": ["C:\\GIAIC Disk\\Q4-Nov-2025\\Hackathon-q4\\Personal_AI_Employee_FTEs\\.qwen\\skills\\email-sender\\send_email.py", "--help"],
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}
